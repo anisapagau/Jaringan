@@ -1,0 +1,12 @@
+Perangkat dalam Jaringan Komputer
+Ada beberapa perangkat yang diperlukan untuk membuat sebuah jaringan komputer. Berikut adalah jenis-jenis perangkat untuk membuat jaringan komputer:
+- Server
+  Server berperan sebagai media penyimpanan data dan mengelola jaringan komputer. 
+  Pada umumnya, server memiliki spesifikasi hardware yang lebih tinggi dibandingkan komputer client.
+- Kabel Jaringan
+  Untuk menghubungkan client dengan server atau perangkat lainnya, diperlukan adanya kabel jaringan.
+  Ada berbagai jenis kabel jaringan dengan kelebihan dan kekurangannya masing-masing seperti coaxial, fiber optic, dan twister pair.
+- Hub dan Switch
+  Hub dan Switch adalah dua perangkat berbeda yang memiliki satu kegunaan yang sama: menghubungkan beberapa komputer ke dalam satu jaringan
+  
+
