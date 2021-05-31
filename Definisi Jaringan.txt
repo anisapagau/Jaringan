@@ -1,0 +1,39 @@
+Jaringan komputer adalah Dua buah komputer, masing-masing mempunyai kartu jaringan, lalu dihubungkan dengan kabel ataupun nirkabel untuk medium transmisi data, 
+serta ada perangkat lunak sistem operasi jaringan akan membentuk sebuah jaringan komupter yang sederhana. 
+Jika ingin memubuat jaringan komputer yang lebih luas jangkauanya, maka diperlukan sebuah peralatan tambahan seperti, Gateway, Hub, Switch, Bridge, Router 
+untuk peralatan interkoneksinya.
+
+Tujuan Jaringan :
+Berikut ini tujuan dari jaringan komputer:
+- Jaringan memungkinkan manajemen sumber daya lebih efisien
+- Jaringan membantu mempertahankan informasi agar tetap andal dan upto-date.
+- Jaringan membantu mempercepat proses berbagi data (data sharing).
+- Jaringan memungkinkan kelompok-kerja berkomunikasi dengan lebih efisien.
+- Jaringan membantu usaha dalam melayani klien mereka secara lebih efektif.
+
+Manfaat Jaringan Komputer
+Manfaat Jaringan Komputer secara umum yang akan bisa didapatkan adalah sebagai berikut ini :
+- Jaringan Komputer dapat sharing resource (data, program, peripheral komputer)
+- Jaringan Komputer media komunikasi efektif dan multimedia
+- Jaringan Komputer memungkinkan manajemen sumber daya lebih efisien.
+- Jaringan Komputer memungkinkan penyampaian lebih terpadu.
+- Jaringan Komputer memungkinkan kelompok kerja berkomunikasi lebih efisien.
+- Jaringan Komputer dapat menjaga keamanan data lebih terjamin (hak akses).
+- Jaringan Komputer menghemat biaya pengembangan dan pemeliharaan.
+- Jaringan Komputer membantu mempertahankan informasi agar tetap handal dan up to date.
+
+Jenis - Jenis Jaringan Komputer
+- LAN (Local Area Network)
+  LAN menghubungkan perangkat jaringan dalam jarak yang relatif pendek. 
+  Sebuah gedung kantor, sekolah, atau rumah jaringan biasanya berisi satu LAN, meskipun kadang-kadang satu gedung akan berisi beberapa LAN kecil (mungkin satu per kamar), 
+  dan kadang-kadang LAN akan menjangkau sekelompok bangunan di dekatnya. Dalam jaringan TCP / IP, LAN sering tetapi tidak selalu diimplementasikan sebagai subnet IP tunggal.
+- MAN (Metropolitan Area Network)
+  MAN adalah jenis jaringan komputer yang menghubungkan dua atau lebih jaringan LAN di dalam kota yang sama. 
+  Kalau jarak yang menghubungkan dua LAN sudah tidak mungkin untuk membangun jaringan, maka jaringan MAN digunakan.
+  Jenis jaringan komputer ini lebih besar dari LAN tetapi lebih kecil dari WAN. MAN menggunakan perangkat khusus dan kabel untuk menghubungkan LAN.
+- WAN (Wide Area Network)
+  WAN juga bisa dibilang sebagai kumpulan LAN yang tersebar secara geografis. Perangkat jaringan yang disebut router menghubungkan LAN ke WAN.
+  Dalam jaringan IP, router menyimpan alamat LAN dan alamat WAN. WAN berbeda dari LAN dalam beberapa hal penting. 
+  Sebagian besar WAN (seperti Internet) tidak dimiliki oleh satu organisasi, melainkan ada di bawah kepemilikan dan pengelolaan kolektif atau terdistribusi. 
+  WAN cenderung menggunakan teknologi seperti ATM, Frame Relay dan X.25 untuk konektivitas jarak yang lebih jauh
+
