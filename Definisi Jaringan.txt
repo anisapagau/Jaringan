@@ -37,3 +37,15 @@ Jenis - Jenis Jaringan Komputer
   Sebagian besar WAN (seperti Internet) tidak dimiliki oleh satu organisasi, melainkan ada di bawah kepemilikan dan pengelolaan kolektif atau terdistribusi. 
   WAN cenderung menggunakan teknologi seperti ATM, Frame Relay dan X.25 untuk konektivitas jarak yang lebih jauh
 
+Topologi Jaringan Komputer
+Dalam jaringan komputer, topologi mengacu pada tata letak perangkat yang terhubung.
+Topologi jaringan komputer bisa dibilang sebagai bentuk atau struktur virtual jaringan. 
+Bentuk ini tidak selalu sesuai dengan tata letak fisik sebenarnya dari perangkat di jaringan.
+
+Sebagai contoh, komputer di jaringan rumah dapat diatur dalam lingkaran di ruang keluarga, 
+tetapi sangat tidak mungkin untuk menemukan topologi cincin di sana. Topologi jaringan dikategorikan ke dalam tipe dasar berikut:
+- Bus (bis)
+- Ring (cincin)
+- Star (bintang)
+- Tree (pohon)
+- Mesh (jala)
