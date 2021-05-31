@@ -1,11 +1,24 @@
-Dua buah komputer, masing-masing mempunyai kartu jaringan, lalu dihubungkan dengan kabel ataupun nirkabel untuk medium transmisi data, 
+Jaringan komputer adalah Dua buah komputer, masing-masing mempunyai kartu jaringan, lalu dihubungkan dengan kabel ataupun nirkabel untuk medium transmisi data, 
 serta ada perangkat lunak sistem operasi jaringan akan membentuk sebuah jaringan komupter yang sederhana. 
 Jika ingin memubuat jaringan komputer yang lebih luas jangkauanya, maka diperlukan sebuah peralatan tambahan seperti, Gateway, Hub, Switch, Bridge, Router 
 untuk peralatan interkoneksinya.
-Tujuan Jaringan
+
+Tujuan Jaringan :
 Berikut ini tujuan dari jaringan komputer:
 Jaringan memungkinkan manajemen sumber daya lebih efisien
 Jaringan membantu mempertahankan informasi agar tetap andal dan upto-date.
 Jaringan membantu mempercepat proses berbagi data (data sharing).
 Jaringan memungkinkan kelompok-kerja berkomunikasi dengan lebih efisien.
 Jaringan membantu usaha dalam melayani klien mereka secara lebih efektif.
+
+Manfaat Jaringan Komputer
+Manfaat Jaringan Komputer secara umum yang akan bisa didapatkan adalah sebagai berikut ini :
+Jaringan Komputer dapat sharing resource (data, program, peripheral komputer)
+Jaringan Komputer media komunikasi efektif dan multimedia
+Jaringan Komputer memungkinkan manajemen sumber daya lebih efisien.
+Jaringan Komputer memungkinkan penyampaian lebih terpadu.
+Jaringan Komputer memungkinkan kelompok kerja berkomunikasi lebih efisien.
+Jaringan Komputer dapat menjaga keamanan data lebih terjamin (hak akses).
+Jaringan Komputer menghemat biaya pengembangan dan pemeliharaan.
+Jaringan Komputer membantu mempertahankan informasi agar tetap handal dan up to date.
+
