@@ -1,5 +1,0 @@
-Jenis - jenis kabel
-1. Kabel Twisted Pair
-   - UTP (Unshielded Twisted Pair)
-   - FTP (Foiled Twisted Pair)
-   - STP (Shielded Twisted Pair)

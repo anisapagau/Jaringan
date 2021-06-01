@@ -1,0 +1,8 @@
+Jenis - jenis kabel
+1. Kabel Twisted Pair
+   - UTP (Unshielded Twisted Pair)
+   ket :adalah kabel yang khusus untuk transmisi data, UTP terdiri dari 4 pasang (biru, oranye, hijau, dan coklat) kabel yang dipilih menurut aturan tertentu dan digunakan untuk mentransfer/menerima data.
+   - FTP (Foiled Twisted Pair)
+   ket :adalah jenis kabel yang tak berbeda jauh dengan Unshielded Twisted Pair (UTP), jenis kabel ini juga terdiri dari 4 pasang (pair) kabel tembaga, yang mana tiap pair-nya dipilin (twisted) saling berlilitan sehingga membentuk sebuah pola berbentuk spiral
+   - STP (Shielded Twisted Pair)
+   ket :adalah kabel jaringan yang secara fisik sama dengan kabel UTP atau UnShielded Twisted Pair akan tetapi perbedaannya adalah kontruksi kabel STP mempunyai selubung tembaga atau aluminium foil yang khusus dirancang untuk mengurangi gangguan elektrik.
