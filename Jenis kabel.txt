@@ -3,3 +3,7 @@ Jenis - jenis kabel
    - UTP (Unshielded Twisted Pair)
    - FTP (Foiled Twisted Pair)
    - STP (Shielded Twisted Pair)
+keterangan :
+- utp adalah kabel yang khusus untuk transmisi data, UTP terdiri dari 4 pasang (biru, oranye, hijau, dan coklat) kabel yang dipilih menurut aturan tertentu dan digunakan untuk mentransfer/menerima data.
+- ftp adalah jenis kabel yang tak berbeda jauh dengan Unshielded Twisted Pair (UTP), jenis kabel ini juga terdiri dari 4 pasang (pair) kabel tembaga, yang mana tiap pair-nya dipilin (twisted) saling berlilitan sehingga membentuk sebuah pola berbentuk spiral
+- stp adalah Kabel jaringan yang sama halnya dengan kebel UTP dan FTP yakni bagian dalam kabel STP terdapat 4 pasang atau lebih kawat tembaga, yang dibagi menjadi beberapa pasang (pair), lalu dipilin menjadi satu, dan dibagian luarnya lagi terdapat banyak lapisan pelindung
